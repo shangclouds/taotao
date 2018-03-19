@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.shangyun</groupId>
+    <artifactId>taotao</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>taotao-parent</module>
+        <module>taotao-manager</module>
+        <module>taotao-common</module>
+        <module>taotao-manager-web</module>
+        <module>taotao-portal-web</module>
+        <module>taotao-content</module>
+        <module>taotao-search</module>
+        <module>taotao-search-web</module>
+        <module>taotao-item-web</module>
+        <module>taotao-sso</module>
+        <module>taotao-sso-web</module>
+        <module>taotao-cart-web</module>
+        <module>taotao-order-web</module>
+        <module>taotao-order</module>
+    </modules>
+
+
+</project>
